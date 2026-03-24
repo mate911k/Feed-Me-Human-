@@ -1,0 +1,13 @@
+﻿Név,Mennyiség,Összetevő
+"U1",1," Arduino Uno R3"
+"PIEZO1",1," Piezo"
+"D1",1,"Piros LED"
+"R1, R4, R6",3,"220 Ω Ellenállás"
+"S1",1," Nyomógomb"
+"R3",1,"10 kΩ Ellenállás"
+"D3",1,"Zöld LED"
+"Rpot2",1,"250 kΩ Szabályozható ellenállás"
+"U4",1," LCD 16 x 2"
+"SERVO2",1,"Pozicionális Mikroszervo"
+"R2",1,"1 kΩ Ellenállás"
+"D2",1,"Sárga LED"
