@@ -5,16 +5,6 @@
 Ez a projekt egy Arduino Uno alapú automata etetőrendszer szimulációja, amely Tinkercad környezetben készült.  
 A rendszer célja egy egyszerű, de jól követhető etetési folyamat megvalósítása, ahol egy potméter segítségével betudjuk állítani az etetés időtartamát, majd egy nyomógombbal eltudjuk indítani a folyamatot.
 
-## Fő funkciók
-
-- Potméterrel állítható etetési idő
-- Nyomógombbal indítható működés
-- LCD kijelzőn megjelenő állapotinformációk
-- LED-es visszajelzés a különböző fázisokhoz
-- Hangjelzések az egyes állapotoknál
-- Szervómotoros nyitás és zárás
-- Visszaszámlálás az etetési folyamat közben
-
 ## Projekt fájljai
 
 A repositoryban a projekt fájljai mappákba rendezve találhatók.
@@ -31,6 +21,16 @@ A dokumentáció részletesebben bemutatja a projekt célját, az alkatrészeket
 ### `kepek` mappa
 
 Ebben a mappában találhatók a projekthez tartozó képek, például a kapcsolási rajz, a Tinkercad szimuláció képernyőképei és egyéb ábrák.
+
+## Fő funkciók
+
+- Potméterrel állítható etetési idő
+- Nyomógombbal indítható működés
+- LCD kijelzőn megjelenő állapotinformációk
+- LED-es visszajelzés a különböző fázisokhoz
+- Hangjelzések az egyes állapotoknál
+- Szervómotoros nyitás és zárás
+- Visszaszámlálás az etetési folyamat közben
 
 ## Összegzés
 
