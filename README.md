@@ -7,7 +7,7 @@ A rendszer célja egy egyszerű, de jól követhető etetési folyamat megvalós
 
 ##A projekt ide kattintva érhető el:
 
-[Projekt megnyitása Tinkercadben]([https://www.tinkercad.com/things/valami](https://www.tinkercad.com/things/hqjMDZMfSQo-feed-me-human?sharecode=NDKRKyfptR31wSNxMO7Qax2kDSWRETlULzbw8ShWVSY))
+[Projekt megnyitása Tinkercadben](https://www.tinkercad.com/things/hqjMDZMfSQo-feed-me-human?sharecode=NDKRKyfptR31wSNxMO7Qax2kDSWRETlULzbw8ShWVSY)
 
 ## Projekt fájljai
 
