@@ -1,4 +1,4 @@
-# Arduino alapú automata etető projekt
+# Feed Me Human!
 
 ## Projekt leírása
 
