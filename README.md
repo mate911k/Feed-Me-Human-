@@ -15,36 +15,6 @@ A rendszer célja egy egyszerű, de jól követhető etetési folyamat megvalós
 - Szervómotoros nyitás és zárás
 - Visszaszámlálás az etetési folyamat közben
 
-## Működési állapotok
-
-A rendszer három fő állapotot használ:
-
-1. **VARAKOZAS**  
-   Alapállapot. A piros LED világít, az LCD kijelző pedig mutatja a potméterrel beállított időt.
-
-2. **HAMAROSAN**  
-   A gomb megnyomása után induló figyelmeztető állapot. Ekkor a sárga LED világít, a kijelzőn megjelenik a figyelmeztető szöveg, és hangjelzés is hallható.
-
-3. **EHET**  
-   Az aktív etetési állapot. A szervómotor kinyitja az etetőt, a zöld LED villog, az LCD kijelző pedig visszaszámolja a hátralévő időt.
-
-A beállított idő letelte után a szervómotor visszazárja az etetőt, majd a rendszer visszatér alapállapotba.
-
-## Felhasznált alkatrészek
-
-- Arduino Uno
-- Breadboard
-- 16x2 LCD kijelző
-- Szervómotor
-- Potméter
-- Nyomógomb
-- Piezo hangjelző
-- Piros LED
-- Sárga LED
-- Zöld LED
-- Ellenállások
-- Jumper vezetékek
-
 ## Projekt fájljai
 
 A repositoryban a projekt fájljai mappákba rendezve találhatók.
