@@ -5,9 +5,7 @@
 Ez a projekt egy Arduino Uno alapú automata etetőrendszer szimulációja, amely Tinkercad környezetben készült.  
 A rendszer célja egy egyszerű, de jól követhető etetési folyamat megvalósítása, ahol egy potméter segítségével betudjuk állítani az etetés időtartamát, majd egy nyomógombbal eltudjuk indítani a folyamatot.
 
-##A projekt ide kattintva érhető el:
-
-[Projekt megnyitása Tinkercadben](https://www.tinkercad.com/things/hqjMDZMfSQo-feed-me-human?sharecode=NDKRKyfptR31wSNxMO7Qax2kDSWRETlULzbw8ShWVSY)
+## A projekt ide kattintva érhető el: [Projekt megnyitása Tinkercadben](https://www.tinkercad.com/things/hqjMDZMfSQo-feed-me-human?sharecode=NDKRKyfptR31wSNxMO7Qax2kDSWRETlULzbw8ShWVSY)
 
 ## Projekt fájljai
 
