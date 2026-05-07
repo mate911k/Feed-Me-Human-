@@ -25,18 +25,3 @@ A dokumentáció részletesebben bemutatja a projekt célját, az alkatrészeket
 ### `kepek` mappa
 
 Ebben a mappában találhatók a projekthez tartozó képek, például a kapcsolási rajz, a Tinkercad szimuláció képernyőképei és egyéb ábrák.
-
-## Fő funkciók
-
-- Potméterrel állítható etetési idő
-- Nyomógombbal indítható működés
-- LCD kijelzőn megjelenő állapotinformációk
-- LED-es visszajelzés a különböző fázisokhoz
-- Hangjelzések az egyes állapotoknál
-- Szervómotoros nyitás és zárás
-- Visszaszámlálás az etetési folyamat közben
-
-## Összegzés
-
-A projekt célja egy egyszerű, Arduino alapú automata etetőrendszer elkészítése volt.  
-A végeredmény egy működő szimuláció lett, amely képes időzített etetési folyamatot végrehajtani, közben pedig vizuális és hangalapú visszajelzést is ad.
